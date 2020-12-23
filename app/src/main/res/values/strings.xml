@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"> Repository G-2</string>
+    <string-array name="dropdown">
+        <item>Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_go_to_2nd">Go to 2nd</string>
+    <string name="read_preferences">Read Preferences</string>
+</resources>
