@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RepositoryG2</string>
+    <string name="txt_appName">Repository G-2</string>
+    <string name="txt_type">Type something!</string>
+    <string name="txt_show">Text will come soon here!</string>
+    <string name="buttom_save_name">Save</string>
+    <string name="buttom_goToSecond">Go to second</string>
+    <string name="buttom_back">Back</string>
+    <string name="buttom_read">Read preferences</string>
+    <string-array name="namesForArrays">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+</resources>
