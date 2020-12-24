@@ -17,7 +17,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.example.myfirstapp.MESSAGE";
     SharedPreferences sharedpreferences;
     //TextView inputText;
     public static final String mypreference = "mypref";
