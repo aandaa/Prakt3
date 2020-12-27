@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prakt3 G-2</string>
+    <string name="save">Save</string>
+    <string name="go_to_2nd">Go to 2-nd</string>
+    <string name="back">Back</string>
+    <string name="read">Read preferences</string>
+    <string name="choose_theme">Choose theme:</string>
+    <string name="enter_pref">Enter preference key:</string>
+    <string name="saved_pref">Saved preference key:</string>
+    <string-array name="theme_array">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+</resources>
